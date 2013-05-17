@@ -1,0 +1,13 @@
+---
+build.dart --machine --changed=bin/data.json --changed=bin/slambookserver.dart --changed=pubspec.yaml --changed...
+[{"method":"mapping","params":{"from":"web/formstester.html","to":"web/out/formstester.html"}}]
+error unable to open file "web/formstester.html"
+Total time spent on web/formstester.html                     --  14 ms
+Total time                                                   --  44 ms
+build.dart finished [523 ms]
+
+---
+build.dart --machine --changed=web/out/slambook.css --changed=web/out/slambook.dart --changed=web/out/slambook....
+Total time                                                   --  24 ms
+build.dart finished [498 ms]
+
